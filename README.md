@@ -39,10 +39,4 @@ Este projeto é apenas para fins de aprendizado e diversão. As informações so
 
 * **Personalize:** Sinta-se à vontade para personalizar o CSS para deixar a página com a sua cara.
 * **Expanda:** Adicione mais brawlers, habilidades e informações à sua base de dados.
-* **Melhore a pesquisa:** Explore algoritmos de busca mais avançados para melhorar a precisão dos resultados.
-
-**Dica:**
-
-Para deixar o README.md ainda mais divertido, você pode adicionar um GIF animado de um brawler comemorando ou uma imagem divertida relacionada ao jogo.
-
-**Lembre-se:** O objetivo de um README.md é explicar o projeto de forma clara e concisa, mas também pode ser uma oportunidade para mostrar sua personalidade e criatividade. 
+* **Melhore a pesquisa:** Explore algoritmos de busca mais avançados para melhorar a precisão dos resultados. 
