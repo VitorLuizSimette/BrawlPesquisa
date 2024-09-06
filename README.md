@@ -1,6 +1,6 @@
 ## **README.md**
 
-### **BrawlPesquisa: Seu guia completo para os Brawlers!**
+### **BrawlPesquisa: Seu guia completo para os Brawlers! - Projeto criado durante a Imersão Dev com a ajuda do Google Gemini**
 
 **O que é a BrawlPesquisa?**
 
