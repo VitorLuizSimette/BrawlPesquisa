@@ -34,9 +34,3 @@ Este projeto é apenas para fins de aprendizado e diversão. As informações so
 **Divirta-se explorando o mundo de Brawl Stars!**
 
 **#brawlstars #desenvolvimentoweb #javascript**
-
-**Observações:**
-
-* **Personalize:** Sinta-se à vontade para personalizar o CSS para deixar a página com a sua cara.
-* **Expanda:** Adicione mais brawlers, habilidades e informações à sua base de dados.
-* **Melhore a pesquisa:** Explore algoritmos de busca mais avançados para melhorar a precisão dos resultados. 
